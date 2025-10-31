@@ -1,7 +1,7 @@
 <h1>Intercompany Wire Transfer PowerApp</h1>
 
 <!--
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](link)
  -->
 
 <h2>Description</h2>
@@ -26,7 +26,7 @@ This project involved taking over a partially built Power App that aimed to repl
 - Integrated Power Automate to route requests and send email notifications
 - Connected the app to SharePoint to centralize request data
 
-Delivered training and documentation to support adoption
+Delivered training via Microsoft Teams and Outlook, and documentation via Microsoft Word to support adoption
 
 <h2>✅ Outcome</h2>
 
@@ -35,37 +35,50 @@ Delivered training and documentation to support adoption
 - Enabled clearer routing of tasks and responsibilities
 
 <h2>Program walk-through/Visual aids:</h2>
-<i><b>Still building...</b></i>
-<!--
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<i><b>Images with data include dummy data and test entries</b></i>
+
+<p align="left">
+App home screen, users enter information for submission: <br/>
+<img src="https://imgur.com/d0qwYoy.png" height="80%" width="80%" alt="ICWT App"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Loading screen with an active timer as the submission is being processed:  <br/>
+<img src="https://imgur.com/R9VwPoV.png" height="80%" width="80%" alt="ICWT Apps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+User confirmation for submission:  <br/>
+<img src="https://imgur.com/e0gDbke.png" height="80%" width="80%" alt="ICWT Apps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Submissions screen: <br/>
+<img src="https://imgur.com/FeKfrAe.png" height="80%" width="80%" alt="ICWT App"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Review submission screen:  <br/>
+<img src="https://imgur.com/XrJCEfl.png" height="80%" width="80%" alt="ICWT App"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Users can delete submissions:  <br/>
+<img src="https://imgur.com/4N3HxNS.png" height="80%" width="80%" alt="ICWT App"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+SharePoint list houses the submissions:  <br/>
+<img src="https://imgur.com/COYEqCC.png" height="80%" width="80%" alt="SharePoint List"/>
+ <br />
+<br />
+Approval Power Automate Flow:  <br/>
+<img src="https://imgur.com/TTCNF2C.png" height="80%" width="80%" alt="ICWT Apps"/>
+<img src="https://imgur.com/rL14RSX.png" height="80%" width="80%" alt="ICWT App"/>
+<br />
+<br />
+Flow to update user permissions:  <br/>
+<img src="https://imgur.com/rPTn2ZG.png" height="80%" width="80%" alt="ICWT App"/>
+<br />
+<br />
+Flow to generate a PDF of the submission:  <br/>
+<img src="https://imgur.com/GVLBZlw.png" height="80%" width="80%" alt="ICWT App"/>
+<br />
 </p>
---!>
 
 <h3>Confidentiality Note</h3>
-<i>The app’s interface is shown with placeholder data. All sensitive request types and users are anonymized.</i>
+<i>The app’s interface is shown with placeholder data. All sensitive information is redacted or anonymized.</i>
